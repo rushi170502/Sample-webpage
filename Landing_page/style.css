@@ -117,7 +117,7 @@ header .logo{
     padding-left: 300px;
     width:370px;
     height:290px;
-    background-image:url(F:/PROJECTS/Interncrowd/Landing_page/Assets/ass1.gif);
+    background-image:url(F:/PROJECTS/Interncrowd/Interncrowd/Landing_page/Assets/ass1.gif);
     background-size:cover;
     margin-top:10px;
 }
@@ -204,7 +204,7 @@ header .logo{
 .secm1{
    width:160px;
    height:200px;
-   background:url(F:/PROJECTS/Interncrowd/Landing_page/Assets/v2.jpeg);
+   background:url(F:/PROJECTS/Interncrowd/interncrowd/Landing_page/Assets/v2.jpeg);
    
     background-size:cover;
     background-position:center center;
@@ -212,13 +212,13 @@ header .logo{
 .secm2{
     width:200px;
     height:180px; 
-    background:url(F:/PROJECTS/Interncrowd/Landing_page/Assets/Picture2-1.png.webp);
+    background:url(F:/PROJECTS/Interncrowd/interncrowd/Landing_page/Assets/Picture2-1.png.webp);
     background-size:cover;
 }
 .secm3{
     width:220px;
     height:180px;
-    background:url(F:/PROJECTS/Interncrowd/Landing_page/Assets/BuyFresh.jpeg);
+    background:url(F:/PROJECTS/Interncrowd/interncrowd/Landing_page/Assets/BuyFresh.jpeg);
     background-size:cover;
 }
 .footer{
@@ -390,5 +390,6 @@ header .logo{
         bottom:20px;
         margin-left:55px;
         font-size:18px;
+        
     }
 }
